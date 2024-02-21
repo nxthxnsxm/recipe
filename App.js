@@ -8,8 +8,8 @@ import './App.css';
 const App = () => {
 
 //aunthentification with Edamam (ID and Key)
-  const APP_ID = '602e240e';
-  const APP_KEY = 'e3adc25a8cbf5cf748f2ad2fb50bbd29';
+  const APP_ID = '';
+  const APP_KEY = '';
 
   //create a state for Recipes
   const [recipes, setRecipes] = useState([]);
